@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: brown;
+}
+.center {
+    text-align: center;
+    padding: 20px;
+}
+.alinha {
+    text-align:center
+}
+footer img {
+    border-radius: 50%;
+}
+.logo {   
+    text-align: center;
+}
+h1 {
+     color: red;
+}
+h2 {
+    color: red;
+    font-size: 20px;
+}
+main {
+    color: white;
+}
